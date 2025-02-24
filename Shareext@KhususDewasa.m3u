@@ -433,7 +433,7 @@ https://vip4.ddyunbo.com/20191118/pa08NZI8/index.m3u8
 https://vip4.ddyunbo.com/20191209/ptaY4sdV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLS4rwF/In-Shot-20231219-072907870.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾113
 https://vip4.ddyunbo.com/20191208/YoOOpIoB/index.m3u8
-涓�鏈亾114
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLS4rwF/In-Shot-20231219-072907870.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾114
 https://vip4.ddyunbo.com/20191206/KlOfpmXm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLS4rwF/In-Shot-20231219-072907870.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾115
 https://vip4.ddyunbo.com/20191128/bhlfixkB/index.m3u8
@@ -997,6 +997,19 @@ https://vip4.ddyunbo.com/20210808/6bBWyYYx/index.m3u8
 https://vip4.ddyunbo.com/20210808/Pf1jWJ54/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLS4rwF/In-Shot-20231219-072907870.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾395
 https://vip4.ddyunbo.com/20210626/yasWpN6k/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾396
+https://2.ddyunbo.com/20191008/uI8rwtGb/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾397
+https://2.ddyunbo.com/20191007/w4IeM92g/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾398
+https://2.ddyunbo.com/20191007/qISqWik0/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾399
+https://2.ddyunbo.com/20191007/IFlq5eON/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@VIP4_DDYUNBO",涓�鏈亾400
+https://2.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@馃嵐",馃嵐9浼犲獟01
@@ -7449,112 +7462,57 @@ https://8bb881.cdnedge.live/file/avple-asserts/hls/6399699c2c279c7a7cd4bf3e/play
 
 
 
+
 #EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道
 http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P03
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P04
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/120915_204-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P05
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_193-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P06
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_004-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P08
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/110615_185-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P09
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/092315_158-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P10
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090515_148-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P11
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090415_147-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P12
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090215_146-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P13
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082715_142-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P14
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082515_141-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P15
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082215_140-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P16
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P1
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081815_137-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P17
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P2
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081615_136-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P18
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P3
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081515_135-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P19
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P4
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P20
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P5
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081115_131-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P21
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111615_191-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P22
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111415_190-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P23
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111215_188-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P24
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110715_186-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P25
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110515_184-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P26
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/103115_181-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P28
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P6
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102215_184-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P29
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P7
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_175-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P30
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P8
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_001-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P31
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P9
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102015_174-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P32
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P10
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101015_169-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P33
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P11
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100715_167-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P34
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P12
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100615_166-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P35
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P13
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100115_163-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P36
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/092615_161-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P37
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/092515_160-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P38
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091915_156-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P39
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091815_155-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P40
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P41
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091115_151-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P42
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P14
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091015_150-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P43
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P15
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/090815_149-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P44
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P16
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-121015_001/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P45
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P17
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P46
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P18
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120515_202/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P47
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P19
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120415_201/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P48
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P49
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P50
-https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P50部
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",一本道720P20
 https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",20
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg", ddyundo20
 https://2.ddyunbo.com/20191004/FxbqgEFY/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",21
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg", ddyundo21
 https://2.ddyunbo.com/20191004/3T6aTxbN/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",22
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg", ddyundo22
 https://2.ddyunbo.com/20191004/GKWK7Q5F/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",23
+#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg", ddyundo23
 https://2.ddyunbo.com/20191004/HjrnnnDD/index.m3u8
-#EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",J罩杯神乳RION不穿奶罩[1280*720]
-https://47b61.cdnedge.live/file/avple-images/hls/5672/5672.m3u8
 #EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",今晚老公不在家-?小雨[1280*720]
 https://q2cyl7.cdnedge.live/file/avple-images/hls/622fc6e2e14ae771445e47fa/playlist.m3u8
 #EXTINF:-1  group-title="SHAREEXT@VOD~AV~JAPONES" tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg",性愛餐酒館EP1-孟若羽[1280*720]
@@ -9656,16 +9614,6 @@ http://1244.vod.redtraffic.xyz/ph5a03d56928597/play.m3u8
 http://12204.vod.adultiptv.net/ph59e72adcd4c2f/play.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHaReExT@XXX",23分鐘內29眼滾動高潮和40次累加載荷
 http://10238.vod.redtraffic.xyz/ph597e34fc0c254/play.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHaReExT@XXX",14
-https://2.ddyunbo.com/20191008/uI8rwtGb/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHaReExT@XXX",15
-https://2.ddyunbo.com/20191007/w4IeM92g/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHaReExT@XXX",16
-https://2.ddyunbo.com/20191007/qISqWik0/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHaReExT@XXX",17
-https://2.ddyunbo.com/20191007/IFlq5eON/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHaReExT@XXX",18
-https://2.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
 
 
 
