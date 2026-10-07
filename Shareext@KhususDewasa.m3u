@@ -1,5 +1,72 @@
 
 
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://vc3-epg-develop.s3.ap-northeast-1.amazonaws.com/channelMedia/519d83f36eecc0c2d22e7e9bd2aa6257.JPG1_SSTV1.JPG",SONGSHI 1
+http://srteamhls.gotvsports.com:41111/wryqzmqlxxmi1zs2/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://vc3-epg-develop.s3.ap-northeast-1.amazonaws.com/channelMedia/c9101b1ec1046f558239f9e852bd62561.JPG1_SSTV2.JPG",SONGSHI 2
+http://srteamhls.gotvsports.com:41111/5bllcktdn92dudy6/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://vc3-epg-develop.s3.ap-northeast-1.amazonaws.com/channelMedia/6ce7534e2678aa89b7797b31ffa13593.JPG1_SSTV3.JPG",SONGSHI 3
+http://srteamhls.gotvsports.com:41111/nzz5mti2l46gknhp/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://vc3-epg-develop.s3.ap-northeast-1.amazonaws.com/channelMedia/e92d5f246358e367ab6d710511d109fffb.JPG1_SSTV4.JPG",SONGSHI 4
+http://166.88.186.26/live/ss4.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://vc3-epg-develop.s3.ap-northeast-1.amazonaws.com/banner/610b8564323bb5d9a12d1779175c75f51.JPG1_Pink.JPG",PANDORA PINK
+http://srteamhls.gotvsports.com:41111/t08gdnfdy3rycim0/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://vc3-epg-develop.s3.ap-northeast-1.amazonaws.com/banner/8648c85ecb2d10b35546ef89044c5aa96.JPG1_Perfect.JPG",PANDORA PERFECT
+http://srteamhls.gotvsports.com:41111/04v9iycrpkoelo1b/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://i.imgur.com/ea9jGx1.png",BANANA TV
+http://srteamhls.gotvsports.com:41111/o1um0allc3pkwbae/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rainbow_channel_tw.png",RAINBOW
+http://srteamhls.gotvsports.com:41111/f35jovi7msk6dd4p/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rainbow_movie.png",RAINBOW MOVIE CHANNEL
+http://srteamhls.gotvsports.com:41111/w8chslnwkcidbh3r/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg",RAINBOW E
+http://srteamhls.gotvsports.com:41111/gk1lhs34k93w0egd/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917053846811460_82.jpg",LOHAS
+http://srteamhls.gotvsports.com:41111/i0a2mditbdzv0h4e/index.m3u8 
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://vc3-epg-develop.s3.ap-northeast-1.amazonaws.com/channelMedia/371cdaebe873b5c5423252db66bd81cf.JPG1_HOT.JPG",HOT
+http://srteamhls.gotvsports.com:41111/krxh0hci5hfbsq7o/index.m3u8 
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg",JSTV
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg",JSTV HD
+http://srteamhls.gotvsports.com:41111/s0doso0ydxe3yk2s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="娼樻湹鎷夊畬缇�" tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆",娼樻湹鎷夊畬缇�
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+
+#EXTINF:-1 tvg-id="" tvg-name="椹氳壏" tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆",椹氳壏
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+
+#EXTINF:-1 tvg-id="" tvg-name="棣欒晧" tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆",棣欒晧
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+
+#EXTINF:-1 tvg-id="" tvg-name="鏉捐1鍙�" tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆",鏉捐1鍙�
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+
+#EXTINF:-1 tvg-id="" tvg-name="鏉捐2鍙�" tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆",鏉捐2鍙�
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+
+#EXTINF:-1 tvg-id="" tvg-name="鏉捐3鍙�" tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆",鏉捐3鍙�
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+
+#EXTINF:-1 tvg-id="" tvg-name="棣欒晧鍙�" tvg-logo="https://i.ibb.co.com/ZLPDKLr/In-Shot-20231219-073102806.jpg" group-title="SHAREEXT@ 鈾ワ笍 LIVE_SONGSI 馃挆",棣欒晧鍙�
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+
+
+
+
+
 #EXTINF:-1 group-title="SHAREEXT@ EURO•SEMI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7pNIbhop64kLlIG9mIy8Yc9Vnk5NomPoYFA&usqp=CAU",9 Songs（情欲九歌）2004【英国】Margo Stilley（1982）
 https://cdn7.ryplay7.com/20241012/3619_36857868/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@ EURO•SEMI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTybJYiPRthdLSyinhYUN4qtPc6oBcxPGNs2g&usqp=CAU",11 Days，11 Nights（Undici Giorni，Undici Notti♦️十一天十一夜）1987【意大利】Jessica Moore（1967）、Mary Sellers（1962）、Laura Gemser（1950）
